@@ -1,0 +1,23 @@
+﻿{
+    "portal_host":  "192.168.100.200",
+    "session_url":  "http://192.168.100.200:801/eportal/portal/online_list?callback=dr1003\u0026jsVersion=4.1.3",
+    "login_url":  "http://192.168.100.200/drcom/login",
+    "timeout_sec":  8,
+    "connect_delay_sec":  1,
+    "login_fields":  {
+                         "callback":  "dr1003",
+                         "DDDDD":  "{username}",
+                         "upass":  "{password}",
+                         "0MKKey":  "123456",
+                         "R1":  "0",
+                         "R2":  "",
+                         "R3":  "0",
+                         "R6":  "0",
+                         "para":  "00",
+                         "v6ip":  "",
+                         "terminal_type":  "1",
+                         "lang":  "zh-cn",
+                         "jsVersion":  "4.1.3",
+                         "v":  "8249"
+                     }
+}
